@@ -80,6 +80,10 @@ class _FirstPageState extends State<FirstPage> {
             style: TextStyle(fontSize: 25, color: Colors.red),
           ),
           Text(
+            "New Flutter",
+            style: TextStyle(fontSize: 25, color: Colors.red),
+          ),
+          Text(
             "Hello Flutter",
             style: TextStyle(fontSize: 25, color: Colors.red),
           ),
