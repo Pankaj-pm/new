@@ -80,7 +80,7 @@ class _FirstPageState extends State<FirstPage> {
             style: TextStyle(fontSize: 25, color: Colors.red),
           ),
           Text(
-            "New Flutter",
+            "New Flutter ankit ",
             style: TextStyle(fontSize: 25, color: Colors.red),
           ),
           Text(
